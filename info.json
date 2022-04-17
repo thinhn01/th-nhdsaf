@@ -1,0 +1,65 @@
+[
+    {
+        "key": "sb",
+        "value": "s_69YPALed7VedTOjbPs6MmN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    },
+    {
+        "key": "datr",
+        "value": "RoOMYSKTX1yGMr6jdOxK8-3X",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    },
+    {
+        "key": "wd",
+        "value": "1366x667",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100006622276498",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    },
+    {
+        "key": "xs",
+        "value": "47%3AvGqVkC60GAisjg%3A2%3A1646739149%3A-1%3A6276%3A%3AAcUpuM4Hsj6lWoUrwveuHJHABM9u57FETndi5sA92g",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    },
+    {
+        "key": "fr",
+        "value": "0kUnE9aYat4JSbZug.AWWOhEiKYYJ1T7BMr_vwA0fEH30.BiKy2n.f8.AAA.0.0.BiKy-R.AWXvoAjUpD8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1646997441677%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-03-11T11:22:23.605Z",
+        "lastAccessed": "2022-03-11T11:22:23.605Z"
+    }
+]
